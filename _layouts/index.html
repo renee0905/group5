@@ -6,5 +6,15 @@
     <title> {{ page.title }}</title>
 </head>
 <body>
-    
+    <div class="container">
+        <nav>
+            <a href="{{ site.baseurl }}/">Gallery Index</a> 
+            <a href="{{ site.baseurl }}/about">Individual Women</a>
+            <a href="{{ site.baseurl }}/individual-men">Individual Men</a> 
+        </nav>
+    </div>
+    <div class="container">
+       {{ content }}
+
+    </div>
 </body>

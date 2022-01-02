@@ -29,6 +29,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 plugins:
   - jekyll-feed
+collection:
+  - exhibiits
 
 # Exclude from processing.
 # The following items will not be processed, by default.
