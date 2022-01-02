@@ -1,7 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 title: Figure Skating Indext
 layout: index
 ---
+
+{% for exhibit in site.exhibits %}
+
+
+<p>{{ exhibit.title }}<br>{{ exhibit.birth }}<br>{{ exhibit.Personalities}}</p>
+
+
+{% endfor %}
