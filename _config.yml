@@ -29,7 +29,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 plugins:
   - jekyll-feed
-collection:
+collections:
   - exhibits
 
 # Exclude from processing.
