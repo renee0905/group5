@@ -10,5 +10,5 @@ Chinese Figure Skator individual men
 <img src="{{ exhibit.img-url}}">
 <p>{{ exhibit.title }}<br>{{ exhibit.birth }}<br>{{ exhibit.Personalities}}</p>
 
-<p><a href="{{ exhibit.video-url }}"></p>
+<p>{{ exhibit.video-url }}</p>
 {% endfor %}
