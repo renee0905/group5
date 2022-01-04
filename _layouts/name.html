@@ -18,8 +18,14 @@
         </nav>
     </div>
     <div class="container">
-       {{ content }}
+        {% for exhibit in site.exhibits %}
 
+        <img src="{{ exhibit.img-url}}">
+        <p>{{ exhibit.name }}<br>{{ exhibit.birth }}<br>{{ exhibit.Personalities}}</p>
+        
+        <p>{{ exhibit.video-url }}</p>
+        {% endfor %}
     </div>
+    <footer>Group5</footer>
 </body>
 

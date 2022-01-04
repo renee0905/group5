@@ -1,5 +1,6 @@
 ---
-title: Chen, Lu
+name: Chen, Lu
+layout: name
 birth: 1976
 place of origin: Changchun City, Jilin Province
 Olympics: 1994, 1998

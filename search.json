@@ -1,0 +1,13 @@
+---
+---
+[
+  {% for exhibit in site.exhibits %}
+    {
+
+      "name"    : "{{ exhibit.name }}",
+      "url"      : "{{ site.baseurl }}{{ exhibit.url }}",
+      "Olympics"     : "{{ exhibit.Olympics}}"
+
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

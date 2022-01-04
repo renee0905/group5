@@ -1,5 +1,5 @@
 ---
-title: Zhang, Min
+name: Zhang, Min
 birth: 1976
 place of origin: Qiqihar, Heilongjiang Province
 Olympics: 1994, 2002, 2006
