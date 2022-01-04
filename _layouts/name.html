@@ -18,13 +18,17 @@
         </nav>
     </div>
     <div class="container">
-        {% for exhibit in site.exhibits %}
-
-        <img src="{{ exhibit.img-url}}">
-        <p>{{ exhibit.name }}<br>{{ exhibit.birth }}<br>{{ exhibit.Personalities}}</p>
+       <p>Name: {{ page. name }}</p> 
+       <p>Birth: {{ page. birth }}</p>
+       <p>Place of origin: {{ page. place of origin }}</p>
+       <p>Olympics: {{ page. Olympics }}</p>
+       <p>Ranking: {{ page. Ranking }}</p>
+       <p>Personalities: {{ page. Personalities }}</p>
+       <p>{{ page. video-url }}</p>
         
-        <p>{{ exhibit.video-url }}</p>
-        {% endfor %}
+
+
+        
     </div>
     <footer>Group5</footer>
 </body>

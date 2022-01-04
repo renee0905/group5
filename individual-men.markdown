@@ -5,10 +5,10 @@ permalink: /individual-men/
 ---
 
 Chinese Figure Skator individual men
-{% for exhibit in site.exhibits %}
+{% for name in site.men %}
 
 <img src="{{ exhibit.img-url}}">
-<p>{{ exhibit.name }}<br>{{ exhibit.birth }}<br>{{ exhibit.Personalities}}</p>
+<p>{{ name.name }}<br>{{ name.birth }}<br>{{ name.Personalities}}</p>
 
-<p>{{ exhibit.video-url }}</p>
+<p>{{ name.video-url }}</p>
 {% endfor %}

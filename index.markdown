@@ -3,10 +3,10 @@ title: Figure Skating Indext
 layout: index
 ---
 
-{% for exhibit in site.exhibits %}
+{% for name in site.men %}
 
 
-<p>{{ exhibit.name }}<br>{{ exhibit.birth }}<br>{{ exhibit.Personalities}}</p>
+<p>{{ name.name }}<br>{{ name.birth }}<br>{{ name.Personalities}}</p>
 
 
 {% endfor %}

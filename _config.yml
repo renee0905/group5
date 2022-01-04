@@ -30,7 +30,14 @@ url: "https://group5-chinese-figure-skators.netlify.app" # the base hostname & p
 plugins:
   - jekyll-feed
 collections:
-  - exhibits
+  men:
+    output: true
+  women:
+    output: true
+  dance:
+    output: true
+  pair:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
