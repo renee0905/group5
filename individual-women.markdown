@@ -9,7 +9,7 @@ permalink: /individual-women/
 
 
 <ul>
-{% for name in site.men %}
+{% for name in site.women %}
 <li><a href = "{{ name.url }}">{{ name.name }}</a></li>
 {% endfor %}
 </ul>

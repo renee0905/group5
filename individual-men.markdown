@@ -4,11 +4,13 @@ title: Individual Men
 permalink: /individual-men/
 ---
 
-Chinese Figure Skator individual men
+
+<h1> Chinese Figure Skator individual men</h1>
+<ul>
+
+
+<ul>
 {% for name in site.men %}
-
-<img src="{{ exhibit.img-url}}">
-<p>{{ name.name }}<br>{{ name.birth }}<br>{{ name.Personalities}}</p>
-
-<p>{{ name.video-url }}</p>
+<li><a href = "{{ name.url }}">{{ name.name }}</a></li>
 {% endfor %}
+</ul>

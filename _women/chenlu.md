@@ -2,7 +2,7 @@
 name: Chen, Lu
 layout: name
 birth: 1976
-place of origin: Changchun City, Jilin Province
+place-of-origin: Changchun City, Jilin Province
 Olympics: 1994, 1998
 Ranking: 3rd
 Key Awards: China's first Olympic medal in figure skating; 1995 World Champion in figure skating and the first Chinese World Champion in figure skating; Champion of the 10th Chinese Figure Skating Championships

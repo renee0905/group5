@@ -1,12 +1,12 @@
 ---
 ---
 [
-  {% for exhibit in site.exhibits %}
+  {% for name in site.men %}
     {
 
-      "name"    : "{{ exhibit.name }}",
-      "url"      : "{{ site.baseurl }}{{ exhibit.url }}",
-      "Olympics"     : "{{ exhibit.Olympics}}"
+      "name"    : "{{ men.name }}",
+      "url"      : "{{ site.baseurl }}{{ men.url }}",
+      "Olympics"     : "{{ men.Olympics}}"
 
     }{% unless forloop.last %},{% endunless %}
   {% endfor %}

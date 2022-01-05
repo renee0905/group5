@@ -2,7 +2,7 @@
 name: Zhang, Min
 layout: name
 birth: 1976
-place of origin: Qiqihar, Heilongjiang Province
+place-of-origin: Qiqihar, Heilongjiang Province
 Olympics: 1994, 2002, 2006
 Ranking: 20th, 16th, 10th
 Key Awards: Men's Singles Champion, National Figure Skating Championships 3 times
