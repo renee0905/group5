@@ -5,11 +5,9 @@ permalink: /individual-women/
 ---
 
 <h1> Chinese Individual Women Figure Skator</h1>
-<ul>
 
-
-<ul>
 {% for name in site.women %}
-<li><a href = "{{ name.url }}">{{ name.name }}</a></li>
+<a href = "{{ name.url | relative_url }}"><img src="{{ name.img-url }}"></a>
+  <p><a href = "{{ name.url | relative_url }}">{{ name.name }}</a>
 {% endfor %}
-</ul>
+

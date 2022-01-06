@@ -5,11 +5,9 @@ permalink: /pair-skating/
 ---
 
 <h1> Chinese Figure Skator Pair Skating</h1>
-<ul>
 
 
-<ul>
 {% for name in site.pair %}
-<li><a href = "{{ name.url }}">{{ name.name }}</a></li>
-{% endfor %}
-</ul>
+<a href = "{{ name.url | relative_url }}"><img src="{{ name.img-url }}"></a>
+  <p><a href = "{{ name.url | relative_url }}">{{ name.name }}</a>
+  {% endfor %}
