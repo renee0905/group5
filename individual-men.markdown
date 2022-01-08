@@ -4,7 +4,6 @@ title: Individual Men
 permalink: /individual-men/
 ---
 <h1> individual men</h1>
-<div class="line"></div>  
 
 <p class="para">Single Men skating is a discipline of figure skating in which male skaters compete individually. Men's singles and women's singles, along with the other figure skating disciplines of pair skating, ice dance, and synchronized skating, are governed by the International Skating Union (ISU). Figure skating is the oldest winter sport contested at the Olympics, with men's and women's single skating appearing as two of the four figure skating events at the London Games in 1908.
 Single skaters are required to perform two segments in all international competitions, the short program, and the free skating program.
