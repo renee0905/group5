@@ -1,5 +1,5 @@
 ---
-title: Figure Skating Indext
+title: Figure Skating Index
 layout: index
 ---
 
