@@ -2,7 +2,7 @@
 title: Figure Skating Index
 layout: index
 ---
-
+<h1>Chinese Figure Skaters</h1>
 Figure skating is a sport in which individuals, pairs, or groups perform on figure skates on ice. It was the first winter sport to be included in the Olympic Games, when contested at the 1908 Olympics in London. The Olympic disciplines are men's singles, women's singles, pair skating, and ice dance; the four individual disciplines are also combined into a team event, first included in the Winter Olympics in 2014.
 
 The 24th Olympic Winter Games (The XXIV Olympic Winter Games), the 2022 Beijing Winter Olympics, is scheduled to open on Friday, February 4, 2022, and close on Sunday, February 20. The Beijing Winter Olympics has 7 major events, 15 sub-events, and 109 minor events. Beijing competition area undertakes all ice events; Yanqing competition area undertakes snowmobile, sled and alpine skiing; Chongli District of Zhangjiakou competition area undertakes all snow sports except snowmobile, sled and alpine skiing .The theme slogan of the Beijing Winter Olympics is "Together to the future". On October 18th, the Beijing Winter Olympics successfully ignited in Greece. On October 20th, the Beijing Winter Olympics Tinder arrived in Beijing.
