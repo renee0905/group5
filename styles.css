@@ -122,7 +122,6 @@ img {
   position: relative;
   width: 300px;
   height: 500px;
-  left: -34;
 }
 
 .card-name {
@@ -134,7 +133,7 @@ img {
   font-size: 30px;
   text-align: center;
   text-transform: uppercase;
-    text-decoration: none
+    text-decoration: none;
   color: white;
   z-index: 1;
   transition: top .5s ease;
