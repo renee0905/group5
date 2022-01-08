@@ -39,3 +39,109 @@ nav a:hover {
     
 }
 
+h1{
+    font-family:'Kaushan Script',cursive;
+    font-size: 60px;
+    color:white;
+    position:relative;
+    margin:20px 100px;
+    text-align: center;
+}
+
+.para{
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+    position:relative;
+    margin:20px 100px;
+    text-align: center;
+}
+
+.line{
+    display: block;
+    width: 4em;
+    height: 0.1875em;
+    margin: 2.5em auto;
+    background: white;
+}
+
+.line2{
+    display: block;
+    width: 90%;
+    height: 0.05em;
+    margin: 2.5em auto;
+    background: white;
+}
+
+.gallary {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    justify-items: stretch;
+    align-items: stretch;
+    padding:20px 100px;
+}
+
+.card {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+    justify-content: center;
+   text-align: center;
+  margin-top: 50px;
+  width: 300px;
+  height: 500px;
+  color: whitesmoke;
+  background-color: whitesmoke;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.1), 
+    0 2px 2px rgba(0,0,0,0.1), 
+    0 4px 4px rgba(0,0,0,0.1), 
+    0 8px 8px rgba(0,0,0,0.1),
+    0 16px 16px rgba(0,0,0,0.1);
+}
+
+.overlay {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0);
+  transition: background 0.5s ease;
+}
+
+.card:hover .overlay {
+  display: block;
+  background: rgba(0, 0, 0, .3);
+}
+
+
+img {
+  position: relative;
+  width: 300px;
+  height: 500px;
+  left: -34;
+}
+
+.card-name {
+  position: absolute;
+  width: 300px;
+  left: 0;
+  top: 120px;
+  font-weight: 700;
+  font-size: 30px;
+  text-align: center;
+  text-transform: uppercase;
+    text-decoration: none
+  color: white;
+  z-index: 1;
+  transition: top .5s ease;
+}
+
+.card:hover .card-name {
+  top: 90px;
+    color: whitesmoke;
+}
+
