@@ -15,15 +15,13 @@ Single skating has required elements that skaters must perform during a competit
 <div class="line2"></div>
     
 <div class="gallary">  
-    <div class="card">
-
-{% for name in site.men %}
+    {% for name in site.men %}
+        <div class="card">
 <a href = "{{ name.url | relative_url }}"><img src="{{ name.img-url }}"></a>
   <p class="card-name"><a href = "{{ name.url | relative_url }}">{{ name.name }}</a>
+          <div class="overlay"></div>
+    </div>   
 {% endfor %}
-    
-<div class="overlay"></div>
-    </div> 
 </div>    
 
 
