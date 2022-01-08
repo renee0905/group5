@@ -118,14 +118,19 @@ img {
   font-size: 30px;
   text-align: center;
   text-transform: uppercase;
-	text-decoration: none;
-  color: white;
   z-index: 1;
   transition: top .5s ease;
 }
 
 .card:hover .card-name {
   top: 90px;
-    color: whitesmoke;
 }
 
+a{
+    color: white;
+     text-decoration: none;
+}
+
+a:hover{
+     color: whitesmoke;
+}
