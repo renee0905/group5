@@ -2,7 +2,7 @@
 name: Sui, wejing/Han, Cong
 layout: name
 birth: 1995/1992
-place-of-origin: Haerbin, Heilongjiang Province
+place-of-origin: Haerbin, Heilongjiang Province/Haerbin, Heilongjiang Province
 Olympics: 2018
 Ranking: 2nd
 Key-Awards: 6th at the World Championships in 2014; won golden medal at the World Championships in 2017
