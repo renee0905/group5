@@ -2,7 +2,7 @@
 name: Yang, Fang / Gao, Chongbo
 layout: name
 birth: 1984/1980
-place-of-origin: Haerbin, Heilongjiang Province
+place-of-origin: Haerbin, Heilongjiang Province/Haerbin, Heilongjiang Province
 Olympics:
 Ranking:
 Key-Awards: They were the 2001 & 2003-2005 Chinese national champions. Their highest placement at an ISU championship was 6th at the 2004 Four Continents Championships.
