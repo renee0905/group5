@@ -1,1 +1,41 @@
+body{
+    background-image:linear-gradient(rgba(42,134,220,.9), rgba(130,230,255,.9), rgba(219,248,255,.9));
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav {
+	margin-top: 0;
+    margin-bottom: 50px;
+    margin-left: 0;
+    margin-right: 0;
+	background-color:transparent;
+    text-align: center;
+
+}
+
+nav ul {
+	padding: 0;
+  margin: 0;
+	list-style: none;
+	position: relative;
+	}
+	
+nav ul li {
+	display:inline-block;
+	background-color: transparent;
+    padding:0 50px;
+	}
+
+nav a {
+	display:block;
+	color:white;
+	line-height: 60px;
+	text-decoration:none;
+}
+
+nav a:hover { 
+	color:whitesmoke;
+    border-bottom: 0.2px solid whitesmoke;  
+    
+}
 
