@@ -2,7 +2,7 @@
 name: Peng, Cheng/Jin, Yang
 layout: name
 birth: 1995/1992
-place-of-origin: Haerbin, Heilongjiang Province
+place-of-origin: Harbin, Heilongjiang Province/Harbin, Heilongjiang Province
 Olympics: 
 Ranking: 
 Key-Awards: 5th at the World Championships in 2021
