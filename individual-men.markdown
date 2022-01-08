@@ -19,7 +19,6 @@ Single skating has required elements that skaters must perform during a competit
         <div class="card">
          <a href = "{{ name.url | relative_url }}"><img src="{{ name.img-url }}"></a>
          <p class="card-name"><a href = "{{ name.url | relative_url }}">{{ name.name }}</a></p>
-         <div class="overlay"></div>
  </div>   
 {% endfor %} 
 </div>  
