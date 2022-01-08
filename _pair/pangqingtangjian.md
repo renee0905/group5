@@ -2,7 +2,7 @@
 name: Pang, Qing/Tang, Jian
 layout: name
 birth: 1979/1979
-place-of-origin: Haerbin, Heilongjiang Province
+place-of-origin: Haerbin, Heilongjiang Province/Haerbin, Heilongjiang Province
 Olympics: 1998, 2002, 2006, 2010
 Ranking: 2nd, 4th
 Key-Awards: 2006, Champion of the World Championships; 2009, 4th at the World Championships; 2010, 2nd at Winter Olympics, and World Championships
