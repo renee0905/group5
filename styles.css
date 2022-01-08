@@ -92,7 +92,7 @@ h1{
     justify-content: center;
    text-align: center;
   margin-top: 50px;
-  width: 300px;
+  width: 350px;
   height: 500px;
   color: whitesmoke;
   background-color: whitesmoke;
@@ -105,20 +105,20 @@ h1{
 
 img {
   position: relative;
-  width: 300px;
+  width: 350px;
   height: 500px;
 }
 
 .card-name {
   position: absolute;
-  width: 300px;
+  width: 350px;
   left: 0;
   top: 120px;
   font-weight: 700;
   font-size: 30px;
   text-align: center;
   text-transform: uppercase;
-    text-decoration: none;
+	text-decoration: none;
   color: white;
   z-index: 1;
   transition: top .5s ease;
