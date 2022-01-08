@@ -20,8 +20,8 @@ Single skating has required elements that skaters must perform during a competit
             <a href = "{{ name.url | relative_url }}"><img src="{{ name.img-url }}"></a>
             <p class="card-name"><a href = "{{ name.url | relative_url }}">{{ name.name }}</a>
             <div class="overlay"></div>
-        </div>   
+    </div>   
     {% endfor %}
-</div>    
+</div>  
 
 
